@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.env
+
+# React frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional: pm2 logs (if you are using pm2)
+pm2.log
